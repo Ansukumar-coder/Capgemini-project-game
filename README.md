@@ -16,9 +16,10 @@ Stone beats Scissors
 Paper beats Stone
 Scissors beats Paper
 The result is displayed on the screen
-**📂 Project Structure**
+**📂 Project Structure** ``
 game.py → Contains the core game logic
 main.py → Handles the menu and user interaction
+``
 **▶️ How to Run**
 Run the main file.
 Choose an option from the menu to play or exit
